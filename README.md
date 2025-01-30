@@ -1,4 +1,4 @@
-# MenuFrogHax
+# MenuFrogHax - Compatible con v15 y v16
 Método de hackeo para Nintendo 3Ds/2Ds
 
 **SINOPSIS**
