@@ -34,3 +34,5 @@ Este proceso sirve para todas las consolas, en especial para aquellas que tienen
 9. Al finalizar los pasos estaremos ante b9sTool, tendremos que darle a la opción de Install.
 10. La consola se reiniciará y ejecutará el boot.firm (el de luma o el de godmode9, según convenga). 
 11. Tan solo faltaría instalar el FBI, recuperar el Modo Descarga nds y crear la NAND.
+
+- Vídeo Guía: https://www.youtube.com/watch?v=rsvfGzOO1kY&t=396s
